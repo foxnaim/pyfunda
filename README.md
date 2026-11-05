@@ -1,3 +1,8 @@
+> **foxnaim** · Python-обёртка API голландской платформы недвижимости Funda.nl
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия AGPL-3.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # pyfunda
 
 [![PyPI version](https://img.shields.io/pypi/v/pyfunda)](https://pypi.org/project/pyfunda/)
